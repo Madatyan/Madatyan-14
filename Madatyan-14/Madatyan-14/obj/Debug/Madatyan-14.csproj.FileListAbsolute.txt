@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Rabota14\Rabota14\bin\Debug\Rabota14.exe.config
+C:\Users\student\source\repos\Rabota14\Rabota14\bin\Debug\Rabota14.exe
+C:\Users\student\source\repos\Rabota14\Rabota14\bin\Debug\Rabota14.pdb
+C:\Users\student\source\repos\Rabota14\Rabota14\obj\Debug\Rabota14.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Rabota14\Rabota14\obj\Debug\Rabota14.Form1.resources
+C:\Users\student\source\repos\Rabota14\Rabota14\obj\Debug\Rabota14.Properties.Resources.resources
+C:\Users\student\source\repos\Rabota14\Rabota14\obj\Debug\Rabota14.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Rabota14\Rabota14\obj\Debug\Rabota14.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Rabota14\Rabota14\obj\Debug\Rabota14.exe
+C:\Users\student\source\repos\Rabota14\Rabota14\obj\Debug\Rabota14.pdb
